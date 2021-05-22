@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi 👋, 
 
-<!--
-**vitorshinohara/vitorshinohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vítor Yudi Shinohara, I'm a Software Engineer who is passionate about software development and machine learning. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Java and Kotlin.
+- 🌱 I’m currently learning Node, React, React Native and AWS;
+-  ⚡ Programming languages: Java, JavaScript, Kotlin and Python.
+-  :rocket: Frameworks: Springboot, Flask, SQLAlchemy, Keras, scikit-learn, matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+  <a href="https://github.com/vitorshinohara/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=vitorshinohara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/vitorshinohara/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorshinohara&layout=compact&theme=radical" />
+  </a>  
+</p>
+
+## Publications
+
+- Comparing Meta-Classifiers for Automatic Music Genre Classification - 17th Brazilian Symposium on Computer Music, 2019
+- Graph-Based Representation, Analysis, and Interpretation of Popular Music Lyrics Using Semantic Embedding Features  - Handbook of Artificial Intelligence for Music - Springer
+
+## 
+
+Contact: vitor.ysh@gmail.com
