@@ -1,11 +1,9 @@
 ## Hi 👋, 
 
-I'm Vítor Yudi Shinohara, I'm a Software Engineer who is passionate about software development and machine learning. 
+I'm Vítor Yudi Shinohara, I'm a Software Engineer who is passionate about software development. 
 
-- 🔭 I’m currently working on Java and Kotlin.
-- 🌱 I’m currently learning Node, React, React Native and AWS;
--  ⚡ Programming languages: Java, JavaScript, Kotlin and Python.
--  :rocket: Frameworks: Springboot, Flask, SQLAlchemy, Keras, scikit-learn, matplotlib
+- 🔭 I’m currently working with Angular.
+-  ⚡ Programming languages: Java, JavaScript / TypeScript and Python.
 
 <p align="justify">
   <a href="https://github.com/vitorshinohara/github-readme-stats">
